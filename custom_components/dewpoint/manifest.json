@@ -3,7 +3,7 @@
   "name": "DewPoint Sensor Calculator",
   "documentation": "https://github.com/fpauser/home-assistant-dewpoint",
   "dependencies": [],
-  "codeowners": ["@miguelangel-nubla", @fpauser],
+  "codeowners": ["@miguelangel-nubla", "@fpauser"],
   "requirements": ["psychrolib==2.1.0"],
   "version": "1.0.0"
 }
