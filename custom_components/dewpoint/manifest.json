@@ -4,6 +4,6 @@
   "documentation": "https://github.com/fpauser/home-assistant-dewpoint",
   "dependencies": [],
   "codeowners": ["@miguelangel-nubla", "@fpauser"],
-  "requirements": ["psychrolib==2.1.0"],
+  "requirements": ["psychrolib==2.5.0"],
   "version": "1.0.0"
 }
