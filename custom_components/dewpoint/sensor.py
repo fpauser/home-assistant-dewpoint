@@ -2,7 +2,7 @@
 Calculate Dew Point based on temperature and humidity sensors
 
 For more details about this platform, please refer to the documentation
-https://github.com/miguelangel-nubla/home-assistant-dewpoint
+https://github.com/fpauser/home-assistant-dewpoint
 """
 
 import logging
