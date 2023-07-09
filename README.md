@@ -1,5 +1,7 @@
 [![License][license-shield]](LICENSE)
 
+UPDATE: Better use the Thermal Comfort sensor https://github.com/dolezsa/thermal_comfort.
+
 # home-assistant-dewpoint
 Home Assistant custom component to calculate dew point using temperature and humidity sensors.
 Calculated using [psychrolib](https://github.com/psychrometrics/psychrolib).
